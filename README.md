@@ -13,14 +13,6 @@
 
 ---
 
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaumyaSM&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🌱 Exploring **cloud scalability**, **backend systems**, and **social impact in tech**
@@ -28,9 +20,13 @@
 - ⚡ Fun fact: I love clean code, powerful ideas, and collaborative innovation  
 - 🎯 Mission: Build scalable tech for real-world human impact  
 
-📫 **Reach Me At:**  
-[![Gmail Badge](https://img.shields.io/badge/-saumyarsmr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saumyarsmr@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Saumya%20Rajapaksha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)](https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)
+---
+
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaumyaSM&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
@@ -77,9 +73,8 @@
 
 ---
 
-## 📫 Connect With Me
+📫 **Reach Me At:**  
+[![Gmail Badge](https://img.shields.io/badge/-saumyarsmr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saumyarsmr@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Saumya%20Rajapaksha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)](https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saumya-rajapaksha-b1454a252"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saumyarsmr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+---
