@@ -105,7 +105,7 @@ hobbies: [Clean Code, Innovation, Tech for Good]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaumyaSM&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaumyaSM&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
