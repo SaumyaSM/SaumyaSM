@@ -32,7 +32,7 @@ I'm a dedicated full-stack developer with a strong interest in creating **impact
 - 📧 saumyarsmr@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 💻 Programming Languages
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" /> </p>
