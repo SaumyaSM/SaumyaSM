@@ -57,4 +57,6 @@ I'm a dedicated full-stack developer with a strong interest in creating **impact
 </div>
 
 ![Snake animation]
-(https://github.com/SaumyaSM/SaumyaSM/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/SaumyaSM/SaumyaSM/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
