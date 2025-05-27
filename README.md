@@ -7,52 +7,79 @@
 
 <p align="center">
   <a href="https://github.com/SaumyaSM">
-    <img src="https://komarev.com/ghpvc/?username=SaumyaSM&label=Profile%20views&color=0e75b6&style=flat" alt="SaumyaSM" />
+    <img src="https://komarev.com/ghpvc/?username=SaumyaSM&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
-## 👨‍💻 About Me
+---
 
-I'm a dedicated full-stack developer with a strong interest in creating **impactful web applications** that solve real-world problems. My work focuses on building scalable, efficient, and meaningful software with an emphasis on clean architecture and thoughtful user experiences.
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaumyaSM&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-🔭 I’m currently working on:  
-- 🚀 **Lifelink App** – A smart organ donation platform designed to streamline the matching process between donors and recipients, leveraging modern tech to enhance healthcare outcomes.
+---
 
-🌱 I’m currently exploring:  
-- 🧩 System architecture and backend integration  
-- ☁️ Cloud-based deployment and scalability  
-- 🧠 Designing for social impact in tech
+## 🚀 About Me
 
-💡 Fun facts:  
-- I’m driven by the belief that technology should serve humanity.  
-- I love clean code, powerful ideas, and collaborative innovation.  
-- I enjoy experimenting with new tools and frameworks to improve both developer experience and end-user satisfaction.
+- 🌱 Exploring **cloud scalability**, **backend systems**, and **social impact in tech**
+- 💼 Working on: [Lifelink App](#) – a smart organ donation platform 🫀
+- ⚡ Fun fact: I love clean code, powerful ideas, and collaborative innovation  
+- 🎯 Mission: Build scalable tech for real-world human impact  
 
-📫 Let’s connect:  
-- 📧 saumyarsmr@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)
+📫 **Reach Me At:**  
+[![Gmail Badge](https://img.shields.io/badge/-saumyarsmr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saumyarsmr@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Saumya%20Rajapaksha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)](https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)
 
-## 🛠️ Tools & Technologies
+---
 
-💻 Programming Languages
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" /> </p>
+## 🧰 Tech Stack
 
-🌐 Web Development
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" /> </p>
+**Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
 
-📱 Mobile & Cross-Platform
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" /> </p>
+**Web & UI**
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
 
-🧰 IDEs & Tools
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode" /> </p>
+**Mobile & Backend**
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
 
-🔧 Development Tools
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" /> </p>
+**Tools & IDEs**
+<p>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+</p>
 
-## 📊 GitHub Stats
+**DevOps & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaumyaSM&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
+---
 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saumya-rajapaksha-b1454a252"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saumyarsmr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
