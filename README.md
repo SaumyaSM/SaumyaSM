@@ -56,6 +56,8 @@ I'm a dedicated full-stack developer with a strong interest in creating **impact
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
-![Snake animation]
-(https://raw.githubusercontent.com/SaumyaSM/SaumyaSM/output/github-contribution-grid-snake.svg)
+## 🐍 GitHub Activity Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaumyaSM/SaumyaSM/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
