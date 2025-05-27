@@ -51,4 +51,7 @@ I'm a dedicated full-stack developer with a strong interest in creating **impact
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaumyaSM&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
