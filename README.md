@@ -6,35 +6,35 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <a href="https://github.com/saumyarajapaksha">
+    <img src="https://komarev.com/ghpvc/?username=saumyarajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a dedicated full-stack developer with a strong interest in creating **impactful web applications** that solve real-world problems. My work focuses on building scalable, efficient, and meaningful software with an emphasis on clean architecture and thoughtful user experiences.
+I'm a dedicated full-stack developer with a strong interest in creating **impactful web applications** that solve real-world problems. My work focuses on building scalable, efficient, and meaningful software with clean architecture and thoughtful UX.
 
-🔭 I’m currently working on:  
-- 🚀 **Lifelink App** – A smart organ donation platform designed to streamline the matching process between donors and recipients, leveraging modern tech to enhance healthcare outcomes.
+- 🔭 Currently building:  
+  **Lifelink App** – A smart organ donation platform to streamline matches between donors and recipients, leveraging modern tech for better healthcare outcomes.
 
-🌱 I’m currently exploring:  
-- 🧩 System architecture and backend integration  
-- ☁️ Cloud-based deployment and scalability  
-- 🧠 Designing for social impact in tech
+- 🌱 Exploring:  
+  `System architecture`, `Backend integration`, `Cloud scalability`, and `Tech for social good`
 
-💡 Fun facts:  
-- I’m driven by the belief that technology should serve humanity.  
-- I love clean code, powerful ideas, and collaborative innovation.  
-- I enjoy experimenting with new tools and frameworks to improve both developer experience and end-user satisfaction.
+- 💬 Fun facts:  
+  I believe **technology should serve humanity**. I love clean code, powerful ideas, and collaborative innovation. Always learning, always building.
 
-📫 Let’s connect:  
-- 📧 saumyarsmr@gmail.com
+📫 **Let's connect!**  
+- 📧 saumyarsmr@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/saumya-rajapaksha-b1454a252)
+
+---
 
 ## 🛠️ Tools & Technologies
 
-### 💻 Programming Languages  
+### 💻 Languages  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -65,3 +65,32 @@ I'm a dedicated full-stack developer with a strong interest in creating **impact
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
 ![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
+---
+
+## 🚀 Featured Projects
+
+- 🔗 [**Lifelink App**](https://github.com/saumyarajapaksha/lifelink) – Streamlining organ donation through tech.
+- 🔧 [**Other Project**](https://github.com/saumyarajapaksha/your-project-name) – Add more showcase repos here.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saumyarajapaksha&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saumyarajapaksha&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saumyarajapaksha&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Clean code always looks like it was written by someone who cares.” – Robert C. Martin</i>
+</p>
