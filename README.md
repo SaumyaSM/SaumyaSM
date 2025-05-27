@@ -48,3 +48,7 @@ I'm a dedicated full-stack developer with a strong interest in creating **impact
 
 🔧 Development Tools
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" /> </p>
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSM&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
