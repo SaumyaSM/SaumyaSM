@@ -126,7 +126,7 @@ hobbies: [Clean Code, Innovation, Tech for Good]
   
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Snake animation](https://github.com/SaumyaSM/SaumyaSM/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SaumyaSM/SaumyaSM/blob/output/github-snake.svg)
 
 **⭐ If you find my work interesting, don't forget to star some repositories!**
 
