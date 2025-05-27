@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm [Your Name]!</h1>
+<h3 align="center">Crafting Code. Creating Impact. 🚀</h3>
 
-<!--
-**SaumyaSM/SaumyaSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Explorer+%F0%9F%9A%80;Let's+build+something+great+%F0%9F%9A%A1" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  </a>
+</p>
