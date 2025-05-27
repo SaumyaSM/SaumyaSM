@@ -94,20 +94,6 @@ hobbies: [Clean Code, Innovation, Tech for Good]
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🫀 Lifelink App** | Smart organ donation platform connecting donors & recipients | Flutter, Firebase, Dart |
-| **📊 Data Visualization Tool** | Interactive dashboard for business analytics | Python, JavaScript, MySQL |
-| **🔐 Secure Authentication System** | Multi-factor authentication solution | C#, .NET, SQL Server |
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
