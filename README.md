@@ -97,7 +97,7 @@ hobbies: [Clean Code, Innovation, Tech for Good]
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumyaSM&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumyaSM&custom_title=Saumya's%20Contribution%20Graph&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f85149&area_color=0969da&title_color=58a6ff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -105,7 +105,7 @@ hobbies: [Clean Code, Innovation, Tech for Good]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaumyaSM&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaumyaSM&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
